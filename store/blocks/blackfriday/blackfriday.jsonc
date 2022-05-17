@@ -1,9 +1,9 @@
 {
-  "store.custom#landingPage": {
-    // "parent": {
-    //   "header": "header#empty",
-    //   "footer": "footer#empty"
-    // },
+  "store.home#landingPage": {
+    "parent": {
+      "header": "header#empty",
+      "footer": "footer#empty"
+    },
     "blocks": [
       "slider-layout#top-header",                /* auto scrolling banner */
 
